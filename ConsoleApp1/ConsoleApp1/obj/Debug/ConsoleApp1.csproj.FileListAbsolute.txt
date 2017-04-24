@@ -1,0 +1,6 @@
+C:\Users\radjah mohammed amin\Documents\GitHub\Learn-CSharp-from-A-To-Z\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\radjah mohammed amin\Documents\GitHub\Learn-CSharp-from-A-To-Z\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\radjah mohammed amin\Documents\GitHub\Learn-CSharp-from-A-To-Z\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\radjah mohammed amin\Documents\GitHub\Learn-CSharp-from-A-To-Z\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\radjah mohammed amin\Documents\GitHub\Learn-CSharp-from-A-To-Z\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\radjah mohammed amin\Documents\GitHub\Learn-CSharp-from-A-To-Z\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
